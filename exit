@@ -1,0 +1,28 @@
+[33me510e35[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m npm scripts part 2
+[33m5b08a8d[m npm scripts part 1
+[33m8ceddc0[m modals now triggered thru JS instead of data attrs, add bg colors to modals
+[33md632d48[m committed latest package.json files
+[33m9de3fe5[m generated css files using SCSS
+[33m4a6bbaf[m compiled styles.css using lessc compiler
+[33m0f5edd7[m replaced two play pause buttons with one button in carousel
+[33m19da9b6[m added play pause buttons to carousel
+[33mde1a815[m removed tooltip and moved reservation form to modal for ass3
+[33m81daf61[m added carousel to homepage
+[33mec52c57[m added tooltip and loginModal to homepage
+[33m8b77d91[m replaced tab panels with accordion on aboutus page
+[33m7eedac6[m added tabbed panes to Corporate in aboutus page
+[33mb92dfca[m fixed assignment 2 submission
+[33m42026db[m assignment 2 completed not assignment 3
+[33m96ecfac[m assignment 3 completed
+[33m86adf59[m added 2 badges to homepage
+[33m218cd75[m added images and media objects to index.html and logo to navbar and jumbotron
+[33mb2f8993[m added table and cards to about-us page
+[33mede5d0f[m added feedback form to Contact-Us page
+[33m12cd5ef[m added contact buttons to contact-us page
+[33m3f30eda[m fixed youtube icon in footer
+[33ma7ee350[m added icon fonts
+[33m5d631f0[m added navbar and breadcrumbs
+[33m3fb3c28[m bootstrap-grid-part-2
+[33m798a5a6[m bootstrap-grid-part-1
+[33m2e22b24[m second commit after adding bootstrap to HTML file
+[33m932b7bf[m initial-setup
